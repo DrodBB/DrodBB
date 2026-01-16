@@ -52,7 +52,7 @@ I'm a 15-year-old developer from **Moscow, Russia** 🇷🇺. My passion is buil
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrodBB&theme=dark&height=150&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrodBB&height=150&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---

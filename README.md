@@ -15,7 +15,7 @@
 
 - 🎮 **Main Focus:** Hardcore GameDev on **C++ & Unreal Engine 5**.
 - 🐺 **Current Work:** Developing my own projects at **BlueStudz**.
-- 🌐 **Web Hobby:** I also build web apps using **React, Next.js, and Nest.js** for fun and myself.
+- 🌐 **Web Hobby:** I also build web apps using **React, Next.js, and Nest.js** for fun and tools.
 - 🐧 **OS:** Windows for games, but I know my way around **Linux**.
 - 🎂 **Age:** Level 15 (Loading Level 16... 99% ■■■■■■■■■□).
 
@@ -46,16 +46,10 @@
 
 ---
 
-### 🏆 Achievements & Stats
+### 🔥 Coding Streak
 
 <p align="center">
-  <!-- Ачивки (Трофеи) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ТВОЙ_НИКНЕЙМ&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
-
-<p align="center">
-  <!-- Стрик (Сколько дней подряд ты кодишь) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_НИКНЕЙМ&theme=radical&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DrodBB&theme=radical&hide_border=true" alt="Streak" />
 </p>
 
 </div>

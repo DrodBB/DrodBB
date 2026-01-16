@@ -1,7 +1,6 @@
 <div align="center">
   # Hi there! 👋 I'm Mikhail (DrodBB)
   ### Founder @BlueStudz | C++ & UE5 Developer | Indie Game Dev
-  <img src="https://github-readme-harshit.vercel.app/api/wave-animation?color=%230099ff&waves=3&speed=1&width=800&height=200&theme=radical&secondaryColor=%23ff0055" alt="Wave Animation" width="100%" />
 </div>
 ## 👨‍💻 About Me
 <div align="center">

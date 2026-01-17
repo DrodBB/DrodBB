@@ -2,7 +2,7 @@
 
 <h1>Hi there! 👋 I'm Mikhail (DrodBB)</h1>
 
-<h3>Founder @BlueStudz | C++ & UE5 Developer | Indie Game Dev</h3>
+<h3>Founder of BlueStudz | C++ & UE5 Developer | Indie Game Dev</h3>
 
 </div>
 

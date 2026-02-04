@@ -20,7 +20,7 @@ I'm a 15-year-old developer from **Moscow, Russia** 🇷🇺. My passion is buil
 
 - 🔭 **Current Focus:** Developing hardcore indie games at **BlueStudz**.
 - 🌱 **Learning:** Deep diving into **C++**, **Game Architecture** and **Network Architecture**.
-- 🎂 **Age:** Level 15 (Loading Level 16... 99% ■■■■■■■■■□).
+- 🎂 **Age:** Level 16 (Loading Level 17... 1% ■□□□□□□□□□).
 - 💬 **Ask me about:** Unreal Engine, C++..
 
 ---
